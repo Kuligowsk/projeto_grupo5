@@ -1,4 +1,4 @@
-# projeto_grupo5
+# Projeto final para conclusão de curso
 projeto do nosso grupo
 
 
